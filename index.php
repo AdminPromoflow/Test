@@ -16,7 +16,7 @@
       var send = document.getElementById('send');
 
       send.addEventListener('click' , function(){
-        alert("hola");
+        alert(email.value);
       })
     </script>
   </body>
