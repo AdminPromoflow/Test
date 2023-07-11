@@ -5,6 +5,8 @@
     <title></title>
   </head>
   <body>
-    <h2>Hola soy Daniela2</h2>
+    <h2>Ingresa un correo electrónico</h2>
+    <input type="text" name="" value="">
+    <button type="button" name="button">Enviar</button>
   </body>
 </html>
