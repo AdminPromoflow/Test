@@ -44,8 +44,6 @@ $message = $css . "
                   <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin-left: 15px; margin-top: 15px; width: 120px;'>
               </td>
               <td style='vertical-align: top;'>
-                  <h1>Título de la tabla</h1>
-                  <p>Contenido de la tabla...</p>
               </td>
           </tr>
       </table>
