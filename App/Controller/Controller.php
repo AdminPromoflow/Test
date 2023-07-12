@@ -15,13 +15,12 @@ $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
 $headers .= "<style type='text/css'>
         @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');                /* Estilos adicionales */
                 body {
-                    font-family: 'Oswald', sans-serif;
+                    font-family: 'Oswald';
                 }
               </style>";
 // Estilos CSS
 $css = "
 <style>
-    font-family: 'Oswald', sans-serif;
     h1 {
         color: #333;
     }
