@@ -13,19 +13,15 @@ $headers = "From: $from\r\n";
 $headers .= "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
 $headers .= "<style type='text/css'>
-                @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
-                /* Estilos adicionales */
+        @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');                /* Estilos adicionales */
                 body {
-                    font-family: 'Nombre de la fuente', sans-serif;
+                    font-family: 'Oswald', sans-serif;
                 }
               </style>";
 // Estilos CSS
 $css = "
 <style>
-    body {
-        font-family: 'Roboto Condensed', sans-serif;
-    }
-
+    font-family: 'Oswald', sans-serif;
     h1 {
         color: #333;
     }
