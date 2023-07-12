@@ -41,7 +41,7 @@ $message = $css . "
       <table style='background:red' border='0' cellspacing='0' cellpadding='0'>
           <tr>
               <td style='vertical-align: top;'>
-                  <img src='https://cdn.ethic.es/wp-content/uploads/2023/03/imagen-1280x768.jpg' alt='Imagen' style='display: block; margin-right: 10px;'>
+                  <img src='https://cdn.ethic.es/wp-content/uploads/2023/03/imagen-1280x768.jpg' alt='Imagen' style='display: block; margin-right: 10px; heigth: 40px;'>
               </td>
               <td style='vertical-align: top;'>
                   <h1>Título de la tabla</h1>
