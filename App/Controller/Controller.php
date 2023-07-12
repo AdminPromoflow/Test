@@ -5,11 +5,14 @@ if ($_POST["module"] == "testEmail") {
 $to = $_POST["email"];
 $subject = "Correo con estilo";
 
+// Dirección de correo electrónico del remitente
+$from = "admin@promoflow.net";
+
 // Cabeceras del correo electrónico
-$headers = "MIME-Version: 1.0" . "\r\n";
+$headers = "From: $from\r\n";
+$headers .= "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
-$headers = 'From: admin@promoflow.net' . "\r\n" .
-    'X-Mailer: PHP/' . phpversion();
+
 // Estilos CSS
 $css = "
 <style>
