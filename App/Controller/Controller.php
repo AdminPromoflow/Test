@@ -2,7 +2,7 @@
 if ($_POST["module"] == "testEmail") {
   $to = $_POST["email"];
 $subject = 'Asunto del correo';
-$message = '<h1 style="color:red">Hola, esto es un ejemplo de correo enviado con PHP.</h1>';
+$message = '<h1 style="background:red">Hola, esto es un ejemplo de correo enviado con PHP.</h1>';
 $headers = 'From: admin@promoflow.net' . "\r\n" .
     'Reply-To: srdaniela2711@gmail.com' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
