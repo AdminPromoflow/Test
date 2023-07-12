@@ -9,7 +9,6 @@ $subject = "Correo con estilo";
 $headers = "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
 $headers = 'From: admin@promoflow.net' . "\r\n" .
-    'Reply-To: lonsus30@gmail.com' . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 // Estilos CSS
 $css = "
