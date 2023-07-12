@@ -1,6 +1,6 @@
 <?php
 if ($_POST["module"] == "testEmail") {
-  $to = 'lonsus30@gmail.com';
+  $to = $_POST["email"];
 $subject = 'Asunto del correo';
 $message = 'Hola, esto es un ejemplo de correo enviado con PHP.';
 $headers = 'From: admin@promoflow.net' . "\r\n" .
