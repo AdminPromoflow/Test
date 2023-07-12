@@ -41,7 +41,7 @@ $message = $css . "
       <table style='background:red' border='0' cellspacing='0' cellpadding='0'>
           <tr>
               <td style='vertical-align: top;'>
-                  <img src='img/Test.jpg' alt='Imagen' style='display: block; margin-right: 10px;'>
+                  <img src='../img/Test.jpg' alt='Imagen' style='display: block; margin-right: 10px;'>
               </td>
               <td style='vertical-align: top;'>
                   <h1>Título de la tabla</h1>
