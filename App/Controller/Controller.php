@@ -38,17 +38,13 @@ $message = $css . "
       <title>Correo con estilo</title>
   </head>
   <body>
-   <div style= 'position: relative; width: 100%; background: purple;' >
-      <table style= 'width: 300px; left: 50%; tranform: tranlateX(-50%); position: relative;' >
-          <tr>
-              <td style='vertical-align: top; background:red' >
-                  <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin-left: 15px; margin-top: 15px; width: 120px;'>
-              </td>
-              <td style='vertical-align: top;'>
-              </td>
-          </tr>
-      </table>
+  <div class='bacground' style= 'position: relative; width: 100%; background: purple;' >
+    <div class='header' style= 'width: 300px; left: 50%; transform: translateX(-50%); position: relative;'>
+      <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin-left: 15px; margin-top: 15px; width: 120px;'>
+
     </div>
+  </div>
+
   </body>
 </html>
 ";
