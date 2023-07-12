@@ -16,7 +16,7 @@
       var email = document.getElementById('email');
       var send = document.getElementById('send');
 
-    /*  send.addEventListener('click' , function(){
+      send.addEventListener('click' , function(){
       $.ajax( "../App/Controller/Controller2.php", {
                type: 'post',
                async: false,
@@ -31,7 +31,7 @@
              }
            )
 
-      })*/
+      })
     </script>
   </body>
 </html>
