@@ -43,8 +43,11 @@ $message = $css . "
 ";
 
 // Envío del correo electrónico
-mail($to, $subject, $message, $headers);
-
+if (mail($to, $subject, $message, $headers)) {
+    echo 'Correo enviado correctamente.';
+} else {
+    echo 'Error al enviar el correo.';
+}
 }
 
  ?>
