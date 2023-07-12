@@ -6,13 +6,16 @@
 
   </head>
   <body>
+    <style media="screen">
+      .test{
+        height:
+      }
+    </style>
     <section>
       <h2>Ingresa un correo electrónico</h2>
       <input id="email" type="text" name="" value="">
       <button id="send" type="button" name="button">Enviar</button>
-      <h1 style="background:red">Hola, esto es un ejemplo de correo enviado con PHP.</h1>
     </section>
-
     <script type="text/javascript">
       var email = document.getElementById('email');
       var send = document.getElementById('send');
