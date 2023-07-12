@@ -12,13 +12,18 @@ $from = "admin@promoflow.net";
 $headers = "From: $from\r\n";
 $headers .= "MIME-Version: 1.0" . "\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
-
+$headers .= "<style type='text/css'>
+                @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap');
+                /* Estilos adicionales */
+                body {
+                    font-family: 'Nombre de la fuente', sans-serif;
+                }
+              </style>";
 // Estilos CSS
 $css = "
 <style>
     body {
-        font-family: Arial, sans-serif;
-        background-color: red;
+        font-family: 'Roboto Condensed', sans-serif;
     }
 
     h1 {
