@@ -40,11 +40,13 @@ $message = $css . "
   <body>
   <div class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
     <div class='header' style= 'width: 60%; min-width: 300px; margin:0 auto; position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
-      <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 15px; width: 220px;'>
+      <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 20px; width: 220px;'>
 
     </div>
+    <div class='titleContainer'>
+      <h1 style='color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+    </div>
   </div>
-
   </body>
 </html>
 ";

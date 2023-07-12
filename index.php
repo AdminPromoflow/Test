@@ -21,6 +21,9 @@
         <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 20px; width: 220px;'>
 
       </div>
+      <div class='titleContainer'>
+        <h1 style='color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+      </div>
     </div>
 
     <script type="text/javascript">
