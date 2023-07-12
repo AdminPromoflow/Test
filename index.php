@@ -22,7 +22,7 @@
 
       </div>
       <div class='titleContainer'>
-        <h1 style='color: #664A99; margin-top: 25px; text-align: center; font-size: 1.2em;'>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+        <h1 style='color: #664A99; margin-top: 25px; text-align: center; font-size: 1.5em;'>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
       </div>
     </div>
 
