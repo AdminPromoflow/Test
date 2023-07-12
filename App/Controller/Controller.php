@@ -38,7 +38,7 @@ $message = $css . "
       <title>Correo con estilo</title>
   </head>
   <body>
-      <table style= border='0' cellspacing='0' cellpadding='0'>
+      <table style= 'width: 300px;' >
           <tr>
               <td style='vertical-align: top; background:red' >
                   <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin-left: 15px; margin-top: 15px; width: 120px;'>
