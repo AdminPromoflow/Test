@@ -17,8 +17,8 @@
       <button id="send" type="button" name="button">Enviar</button>
     </section>
     <div class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
-      <div class='header' style= 'width: 300px; margin:0 auto; position: relative; background: red;'>
-        <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin-left: 15px; margin-top: 15px; width: 120px;'>
+      <div class='header' style= 'width: 80%; min-width: 300px; margin:0 auto; position: relative; background: red;'>
+        <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 15px; width: 120px;'>
 
       </div>
     </div>
