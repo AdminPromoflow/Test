@@ -34,13 +34,22 @@ $css = "
 // Contenido del correo electrónico
 $message = $css . "
 <html>
-<head>
-    <title>Correo con estilo</title>
-</head>
-<body>
-    <h1>Título del correo</h1>
-    <p>Este es un correo con estilo enviado desde PHP.</p>
-</body>
+  <head>
+      <title>Correo con estilo</title>
+  </head>
+  <body>
+      <table border='0' cellspacing='0' cellpadding='0'>
+          <tr>
+              <td style='vertical-align: top;'>
+                  <img src='ruta_de_la_imagen.jpg' alt='Imagen' style='display: block; margin-right: 10px;'>
+              </td>
+              <td style='vertical-align: top;'>
+                  <h1>Título de la tabla</h1>
+                  <p>Contenido de la tabla...</p>
+              </td>
+          </tr>
+      </table>
+  </body>
 </html>
 ";
 
