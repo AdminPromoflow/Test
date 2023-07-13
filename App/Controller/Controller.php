@@ -29,7 +29,8 @@ $css = "
 $message = $css . "
 <html>
   <head>
-      <title>Correo con estilo</title>
+      <title>Lanyards for you</title>
+      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">
   </head>
   <body>
   <div class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
