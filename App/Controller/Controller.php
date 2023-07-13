@@ -33,7 +33,7 @@ $message = $css . "
   </head>
   <body>
   <div class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
-    <div class='background2' style='width: 60%; min-width: 30px; margin: 0 auto; position: relative; background: white;'>
+  <div class='background2' style='width: 60%; overflow-x: hidden; min-width: 30px; margin: 0 auto; position: relative; background: white;'>
 
 
     <div class='header' style= 'position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
