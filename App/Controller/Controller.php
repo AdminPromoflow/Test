@@ -6,7 +6,7 @@ $to = $_POST["email"];
 $subject = "Correo con estilo";
 
 // Dirección de correo electrónico del remitente
-$from = "admin@promoflow.net";
+$from = "admin@alejandrarozo.com";
 
 // Cabeceras del correo electrónico
 $headers = "From: $from\r\n";
