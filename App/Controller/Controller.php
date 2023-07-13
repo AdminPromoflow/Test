@@ -37,8 +37,8 @@ $message = $css . "
       <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 20px; width: 220px;'>
 
     </div>
-    <div style='min-width: 300px; width: 60%; margin: 0 auto; ' class='titleContainer'>
-    <h1 style='font-family: Oswald, sans-serif; font-size: calc(0.7vw + 1.3em); letter-spacing: 1px; color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+    <div style='min-width: 280px; width: 60%; margin: 0 auto; ' class='titleContainer'>
+    <h1 style='font-family: Oswald, sans-serif; font-size: calc(0.6vw + 1.3em); letter-spacing: 1px; color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
     </div>
   </div>
   </body>
