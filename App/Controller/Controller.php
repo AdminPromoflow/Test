@@ -15,19 +15,13 @@ $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
 $headers .= "<style type='text/css'>
         @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');                /* Estilos adicionales */
                 body {
-                    font-family: 'Oswald';
+                    font-family: 'Oswald', 'sans-serif';
                 }
               </style>";
 // Estilos CSS
 $css = "
 <style>
-    h1 {
-        color: #333;
-    }
 
-    p {
-        color: #777;
-    }
 </style>
 ";
 
@@ -44,7 +38,7 @@ $message = $css . "
 
     </div>
     <div class='titleContainer'>
-      <h1 style='color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+      <h1 style='font-family: Oswald, sans-serif; color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
     </div>
   </div>
   </body>
