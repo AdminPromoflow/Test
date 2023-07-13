@@ -41,7 +41,7 @@ $message = $css . "
 
     </div>
     <div class='titleContainer' style='background: white; position: relative; width: 85%; background: blue; margin: 0 auto;' >
-    <h1 style='font-family: Oswald, sans-serif; font-size: calc(0.5vw + 0.9em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1.2vw; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+    <h1 style='font-family: Oswald, sans-serif; font-size: calc(0.2vw + 1.2em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1.2vw; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
     <h2 style='font-family: Oswald, sans-serif; font-size: calc(0.5vw + 0.6em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1vw; text-align: center; '>We're glad to have you here</h2>
 
     </div>
