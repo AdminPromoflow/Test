@@ -20,11 +20,11 @@
       <div class='background2' style='width: 60%; min-width: 30px; margin: 0 auto; position: relative; background: white;'>
 
 
-      <div class='header' style= 'width: 60%; min-width: 300px; margin:0 auto; position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
+      <div class='header' style= 'position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
         <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 20px; width: 45%;'>
 
       </div>
-      <div style='min-width: 280px; width: 60%; margin: 0 auto; background: white; ' class='titleContainer'>
+      <div style='min-width: 280px; background: white; ' class='titleContainer'>
       <h1 style='font-family: Oswald, sans-serif; font-size: calc(0.5vw + 1.4em); letter-spacing: 1px; color: #664A99; margin-top: 25px; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
       </div>
         </div>
