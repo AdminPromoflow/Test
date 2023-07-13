@@ -33,14 +33,14 @@ $message = $css . "
       <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\">
   </head>
   <body>
-  <div class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
+  <div  class='background' style= 'position: relative; width: 100%; background: rgb(245,245,245); ' >
   <div class='background2' style='width: 70%; overflow-x: hidden; min-width: 300px; margin: 0 auto; position: relative; background: white;'>
 
     <div class='header' style= 'position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
       <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; margin: 20px; width: 45%;'>
 
     </div>
-    <div style='background: white; ' class='titleContainer'>
+    <div class='titleContainer' style='background: white; position: relative; width: 85%; background: blue; margin: 0 auto;' >
     <h1 style='font-family: Oswald, sans-serif; font-size: calc(1.3vw + 0.4em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1.2vw; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
     <h2 style='font-family: Oswald, sans-serif; font-size: calc(0.9vw + 0.4em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1vw; text-align: center; '>We're glad to have you here</h2>
 
