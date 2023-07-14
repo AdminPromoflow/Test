@@ -62,7 +62,7 @@ if ($_POST["module"] == "testEmail") {
       if ($error !== null) {
           echo $error;
       }
-    //  echo 'Error al enviar el correo.';
+      echo 'Error al enviar el correo.';
   }
   }
 
