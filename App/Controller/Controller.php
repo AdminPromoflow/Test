@@ -54,7 +54,7 @@ if ($_POST["module"] == "testEmail") {
 
   $error = error_get_last();
     if ($error !== null) {
-        echo $error;
+        echo $error."hola";
     }
 
   // Envío del correo electrónico
