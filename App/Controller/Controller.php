@@ -52,10 +52,7 @@ if ($_POST["module"] == "testEmail") {
   </html>
   ";
 
-  $error = error_get_last();
-    if ($error !== null) {
-        echo $error."hola";
-    }
+
 
   // Envío del correo electrónico
   if (mail($to, $subject, $message, $headers)) {
@@ -65,6 +62,10 @@ if ($_POST["module"] == "testEmail") {
       echo 'Error al enviar el correo.';
   }
   }
+  $error = error_get_last();
+    if ($error !== null) {
+        echo $error."hola";
+    }
 
 }
 
