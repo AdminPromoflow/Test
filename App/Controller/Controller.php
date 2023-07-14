@@ -59,7 +59,7 @@ if ($_POST["module"] == "testEmail") {
       echo 'Correo enviado correctamente.';
   } else {
 
-      echo 'Error al enviar el correo.';
+      echo 'Error al enviar el correo.2';
   }
   }
   $error = error_get_last();
