@@ -52,11 +52,17 @@ if ($_POST["module"] == "testEmail") {
   </html>
   ";
 
+
+
   // Envío del correo electrónico
   if (mail($to, $subject, $message, $headers)) {
       echo 'Correo enviado correctamente.';
   } else {
-      echo 'Error al enviar el correo.';
+    $error = error_get_last();
+      if ($error !== null) {
+          echo $error;
+      }
+    //  echo 'Error al enviar el correo.';
   }
   }
 
