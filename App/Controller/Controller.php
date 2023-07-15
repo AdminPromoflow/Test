@@ -52,7 +52,7 @@ if ($_POST["module"] == "testEmail") {
       </div>
 
       <div class='imgEmail' style='position: relative; width: 85%;  margin: 0 auto;'>
-        <img   style='position: relative; width: 100%; ' alt='' src='https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
+        <img   style='position: relative; margin-top: calc(0.2vw + 0.2em); width: 100%; ' alt='' src='https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
       </div>
         </div>
     </div>
