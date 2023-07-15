@@ -66,7 +66,7 @@ if ($_POST["module"] == "testEmail") {
       </div>
 
       <div class='header' style= 'position: relative; background: #555FA8; width: 100%; background: green;'>
-        <img  alt='Imagen' style='display: block; width: 30%; position: absolute; top: 1vw; left: 1vw; ' src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png'>
+        <img  alt='Imagen' style='display: block; width: 20vw; position: absolute; top: 1vw; left: 1vw; padding: 2vw 0;' src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png'>
       </div>
 
         </div>
