@@ -43,14 +43,16 @@ if ($_POST["module"] == "testEmail") {
     <div class='background2' style='width: 70%; overflow-x: hidden; min-width: 300px; margin: 0 auto; position: relative; background: white;'>
 
       <div class='header' style= 'position: relative; background: rgb(63,152,237); background: linear-gradient(90deg, rgba(63,152,237,0.9) 0%, rgba(69,79,177,0.9) 53%, rgba(69,79,177,0.9) 75%, rgb(196, 56, 149) 100%);'>
-        <img src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png' alt='Imagen' style='display: block; width: 40%;'>
-
+        <img  alt='Imagen' style='display: block; width: 40%;' src='https://lanyardsforyou.com/Pages/General/Menu/Logo.png'>
       </div>
+
       <div class='titleContainer' style=' position: relative; width: 85%;  margin: 0 auto; margin-top: calc(2.0vw + 1.0em); ' >
       <h1 style='font-family: Oswald, sans-serif; font-size: calc(1.2vw + 0.8em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
       <h2 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(1.1vw + 0.7em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; text-align: center; margin-top: calc(0.2vw + 0.2em); '>We're glad to have you here</h2>
-
       </div>
+
+      <img class='imgEmail' style='position: relative; width: 85%;  margin: 0 auto;' alt='' src='https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
+
         </div>
     </div>
      </body>
