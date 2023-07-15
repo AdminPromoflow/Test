@@ -55,7 +55,7 @@ if ($_POST["module"] == "testEmail") {
         <img   style='position: relative; width: 100%; ' alt='' src='https://lanyardsforyou.com/Pages/Index/Slider/Slide2.png'>
       </div>
 
-      <div class='titleContainer' style=' position: relative; width: 85%;  margin: 0 auto; margin-top: calc(2.0vw + 1.0em); ' >
+      <div class='titleContainer' style=' position: relative; width: 85%;  margin: 0 auto; margin-top: calc(1.8vw + 0.8em); ' >
       <h2 style='font-family: Oswald, sans-serif; font-weight: 500; font-size: calc(1.1vw + 0.7em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center;  '>We're glad to have you here</h2>
       </div>
 
