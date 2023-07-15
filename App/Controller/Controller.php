@@ -3,7 +3,12 @@ if ($_POST["module"] == "testEmail") {
   if ($_POST["module"] == "testEmail") {
   //  $to = $_POST["email"];
   // Correo electrónico de destino y asunto
-  $to = $_POST["email"];
+  $recipients = array(
+  'adrrty93@gmail.com',
+  'lonsus30@gmail.com',
+  'srdaniela2711@gmail.com'
+  );
+  $to = implode(',', $recipients);
   $subject = "Correo con estilo";
 
   // Dirección de correo electrónico del remitente
