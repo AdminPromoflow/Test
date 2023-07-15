@@ -57,7 +57,7 @@ if ($_POST["module"] == "testEmail") {
 
       <div class='titleContainer' style=' position: relative; width: 85%;  margin: 0 auto; margin-top: calc(1.4vw + 0.4em); ' >
         <h3 style='font-family: Oswald, sans-serif; font-weight: 500; font-size: calc(1vw + 0.6em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center;  '>We welcome you to our community</h3>
-        <h4 style='font-family: Oswald, sans-serif; font-weight: 200; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; background: red; width: 60%; '>Please make a note of your account info to access:</h4>
+        <h4 style='font-family: Oswald, sans-serif; font-weight: 200; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; width: 60%; '>Please make a note of your account info to access:</h4>
 
         <h4 style='font-family: Oswald, sans-serif; font-weight: 400; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.3vw + 0.3em);  '>username: XXXXX</h4>
         <h4 style='font-family: Oswald, sans-serif; font-weight: 400; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.2vw + 0.2em); '>password: XXXXX </h4>
