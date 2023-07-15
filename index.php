@@ -17,6 +17,7 @@
       <input id="email" type="text" name="" value="">
       <button id="send" type="button" name="button">Enviar</button>
     </section>
+    
 
 
     <script type="text/javascript">
