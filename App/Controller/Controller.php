@@ -47,7 +47,7 @@ if ($_POST["module"] == "testEmail") {
 
       </div>
       <div class='titleContainer' style='background: white; position: relative; width: 85%;  margin: 0 auto;' >
-      <h1 style='font-family: Oswald, sans-serif; font-size: calc(2.1vw + 0.1em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 0.3vw; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
+      <h1 style='font-family: Oswald, sans-serif; font-size: calc(2vw + 0.2em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 0.3vw; text-align: center; '>HELLO AND WELCOME TO LANYARDS FOR YOU</h1>
       <h2 style='font-family: Oswald, sans-serif; font-size: calc(40% + 0.1em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; margin-top: 1vw; text-align: center; '>We're glad to have you here</h2>
 
       </div>
