@@ -51,7 +51,7 @@ if ($_POST["module"] == "testEmail") {
       <h2 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(1.1vw + 0.7em); position: relative; margin: 0 auto; letter-spacing: 0px; color: #664A99; text-align: center; margin-top: calc(0.2vw + 0.2em); '>We're glad to have you here</h2>
       </div>
 
-      <div class='imgEmail' style='position: relative; width: 85%;  margin: 0 auto;  margin-top: calc(0.2vw + 0.2em);'>
+      <div class='imgEmail' style='position: relative; width: 85%;  margin: 0 auto;  margin-top: calc(0.6vw + 0.6em);'>
         <img   style='position: relative; width: 100%; ' alt='' src='https://images.unsplash.com/reserve/Af0sF2OS5S5gatqrKzVP_Silhoutte.jpg?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
       </div>
         </div>
