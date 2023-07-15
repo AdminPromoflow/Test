@@ -61,7 +61,7 @@ if ($_POST["module"] == "testEmail") {
 
         <h4 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(0.8vw + 0.4em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center;  '>username: XXXXX</h4>
         <h4 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(0.8vw + 0.4em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center;  '>password: XXXXX </h4>
-      <br>
+    
         <h3 style='font-family: Oswald, sans-serif; font-weight: 500; font-size: calc(1vw + 0.6em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center;  '>www.lanyardsforyou.com</h3>
 
       </div>
