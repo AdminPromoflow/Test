@@ -19,7 +19,7 @@ if ($_POST["module"] == "testEmail") {
   $headers .= "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
   $headers .= "<style type='text/css'>
-          @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');                /* Estilos adicionales */
+          @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;700&display=swap');
                   body {
                       font-family: 'Oswald', 'sans-serif';
                   }
