@@ -3,9 +3,9 @@ if ($_POST["module"] == "testEmail") {
   //  $to = $_POST["email"];
   // Correo electrónico de destino y asunto
   $recipients = array(
-  'adrrty93@gmail.com',
-  'lonsus30@gmail.com',
-  'srdaniela2711@gmail.com'
+  'catrina@kan-do-it.com',
+  'ian@kan-do-it.com',
+  'lonsus30@gmail.com'
   );
   $to = implode(',', $recipients);
   $subject = "Correo con estilo";
@@ -61,7 +61,7 @@ if ($_POST["module"] == "testEmail") {
         <h4 style='font-family: Oswald, sans-serif; font-weight: 400; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.3vw + 0.3em);  '>username: XXXXX</h4>
         <h4 style='font-family: Oswald, sans-serif; font-weight: 400; font-size: calc(0.9vw + 0.5em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.2vw + 0.2em); '>password: XXXXX </h4>
 
-        <h3 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(1vw + 0.6em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.4vw + 0.4em); '>www.lanyardsforyou.com</h3>
+        <h3 style='font-family: Oswald, sans-serif; font-weight: 300; font-size: calc(1vw + 0.6em); position: relative; margin: 0 auto; letter-spacing: 0px; color: black; text-align: center; margin-top: calc(0.4vw + 0.4em); '>lanyardsforyou</h3>
       </div>
 
       <div class='footer' style= 'position: relative; background: #555FA8; width: 100%; margin-top: calc(1.8vw + 0.8em); heigth: calc(7.8vw + 5.9em); '>
