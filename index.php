@@ -9,7 +9,7 @@
   <body>
     <style media="screen">
       .test{
-        font-weight:
+        margi
       }
     </style>
     <section>
@@ -17,7 +17,7 @@
       <input id="email" type="text" name="" value="">
       <button id="send" type="button" name="button">Enviar</button>
     </section>
-    
+    <br>
 
 
     <script type="text/javascript">

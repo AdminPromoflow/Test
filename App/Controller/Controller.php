@@ -1,6 +1,5 @@
 <?php
 if ($_POST["module"] == "testEmail") {
-  if ($_POST["module"] == "testEmail") {
   //  $to = $_POST["email"];
   // Correo electrónico de destino y asunto
   $recipients = array(
@@ -83,7 +82,6 @@ if ($_POST["module"] == "testEmail") {
   } else {
 
       echo 'Error al enviar el correo.2';
-  }
   }
   $error = error_get_last();
     if ($error !== null) {
